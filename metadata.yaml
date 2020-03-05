@@ -1,0 +1,40 @@
+_repo: Majurin-holhokit_61503
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mannstén, Emil
+    alias: Mannsten, Emil
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '9320'
+    url: http://www.gutenberg.org/2009/agents/9320
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Mannst%C3%A9n
+creator:
+  author:
+    agent_name: Nemirovich-Danchenko, Vasilii Ivanovich
+    aliases:
+    - Nemirovitsh-Damtshenko, Vasili
+    - Немирович-Данченко, Василий Иванович
+    - Nemirovich-Danchenko, V. I. (Vasilii Ivanovich)
+    birthdate: 1848
+    deathdate: 1936
+    gutenberg_agent_id: '36024'
+    url: http://www.gutenberg.org/2009/agents/36024
+    wikipedia: http://en.wikipedia.org/wiki/Vasily_Nemirovich-Danchenko
+description: 'Translation of: Маіор Бобков и его сироты (Maior Bobkov i ego siroty).'
+gutenberg_issued: '2020-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61503'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Self-sacrifice -- Fiction'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- GITenberg
+title: Majurin holhokit
+url: http://www.gutenberg.org/ebooks/61503
